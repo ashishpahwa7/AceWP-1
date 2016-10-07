@@ -56,7 +56,7 @@ int main()
 
 printf("\n Array after sorting is : \n");
 	//Insert sort function here
-	BubbleSort(A,size)
+	BubbleSort(A,size);
 
 // Now Printing sorted array
  

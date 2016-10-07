@@ -24,7 +24,7 @@ return 0 ;
 
 void swap(int *A , int *B )
 {
-	int temp1;
+	int temp;
 
 	temp= *A;
 	*A = *B;
@@ -56,7 +56,7 @@ int main()
 
 printf("\n Array after sorting is : \n");
 	//Insert sort function here
-	BubbleSort(A,size)
+	BubbleSort(A,size);
 
 // Now Printing sorted array
  

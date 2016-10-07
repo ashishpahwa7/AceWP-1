@@ -24,7 +24,7 @@ return 0 ;
 
 void swap(int *A , int *B )
 {
-	int temp1;
+	int temp;
 
 	temp= *A;
 	*A = *B;
